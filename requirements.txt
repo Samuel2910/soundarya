@@ -3,7 +3,5 @@ pandas==1.4.4
 pymysql
 plotly.express
 pafy
-io
-random
 pyresparser
 pdfminer3
