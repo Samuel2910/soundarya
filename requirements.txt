@@ -1,8 +1,6 @@
 streamlit==1.18.1
 pandas==1.4.4
 pymysql
-time
-datetime
 plotly.express
 pafy
 st_tags
