@@ -16,6 +16,7 @@ import pymysql
 from courses import ds_course,web_course,android_course,ios_course,uiux_course,resume_videos,interview_videos
 import pafy
 import plotly.express as px
+import nltk
 
 def fetch_yt_video(link):
     video = pafy.new(link)
