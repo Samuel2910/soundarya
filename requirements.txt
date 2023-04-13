@@ -3,7 +3,6 @@ pandas==1.4.4
 pymysql
 plotly.express
 pafy
-st_tags
 io
 random
 pyresparser
