@@ -7,3 +7,10 @@ base64
 random
 time
 datetime
+plotly.express
+pafy
+st_tags
+io
+random
+pyresparser
+pdfminer3
